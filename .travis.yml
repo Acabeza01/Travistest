@@ -2,6 +2,9 @@
   python: 
     - "3.6"
   script: 
+    - pip install bs4
+    - pip install requests
+    - pip install xlrd
     - pytest
   notifications:
     email: 

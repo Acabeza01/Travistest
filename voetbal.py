@@ -69,8 +69,8 @@ def verschil(arr, ar2):
 
     return (teller, voltreffer)
 
-for i in range (0,5):
-    print(Score(i).getScore())
+#for i in range (0,5):
+ #   print(Score(i).getScore())
 
 def test_add():
     assert 1 == 1, "Add doesn't work"
