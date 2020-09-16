@@ -1,0 +1,6 @@
+  language: python
+  script:
+    - pytest
+  notifications:
+    email: acabeza01@hotmail.com
+  
