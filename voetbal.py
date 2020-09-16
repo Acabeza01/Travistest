@@ -71,3 +71,6 @@ def verschil(arr, ar2):
 
 for i in range (0,5):
     print(Score(i).getScore())
+
+def test_add():
+    assert 1 == 1, "Add doesn't work"
