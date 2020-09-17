@@ -74,5 +74,5 @@
 
 print("OK")
 
-def test_add():
-    assert (1 == 1), "Add doesn't work"
+# def test_add():
+#     assert (1 == 1), "Add doesn't work"
