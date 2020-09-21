@@ -13,9 +13,6 @@ for a in stand:
         ranglijst.append(club)
 print(ranglijst)
 
-
-
-
 import xlrd
 fname = 'Ere2021.xlsx'
 
@@ -72,7 +69,3 @@ def verschil(arr, ar2):
 for i in range (0,5):
    print(Score(i).getScore())
 
-print("OK")
-
-# def test_add():
-#     assert (1 == 1), "Add doesn't work"
