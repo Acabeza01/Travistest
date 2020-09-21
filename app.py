@@ -8,6 +8,6 @@ def dice_page():
 	return render_template('index.html')
 
 #Testing to check if it works
-@app.route('/test')
+@app.route('/test/')
 def test():
     return "Works!"
